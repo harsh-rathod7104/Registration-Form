@@ -94,12 +94,22 @@ margin-right: 3px;
     text-decoration: underline;
     color: blue;
 }
-.btn{
-    margin-top: 30px;
+
+.error-label{
+    padding-left: 10px;
+    font-size: 17px;
+    font-weight: 400;
 }
 
-.input-label{
-    padding-left: 10px;
-    font-size: 12px;
-    padding-top:5px;
+#user-type{
+    margin-top: 20px;
+}
+
+#userType{
+    background-color: transparent;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.384);
 }
